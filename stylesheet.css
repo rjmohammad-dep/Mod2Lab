@@ -128,6 +128,20 @@ Modules
   padding-top: 18px;
   padding-bottom: 18px;
 }
+
+.logo {
+  overflow: hidden;
+  display: inline-block;
+}
+
+.logo-primary {
+  width: 64px;
+  height: 64px;
+}
+
+.logo-primary img {
+  height: 100%;
+}
 /***************************
 ****************************
 Theme Styles
